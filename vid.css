@@ -1,0 +1,98 @@
+
+
+body 
+  {background-color: #cfa5b2
+     ;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+;}
+ p
+  {color: #b02750;
+text-align:center;
+font-size: 48px}
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#logo 
+{text-align:right;
+outline-width: 2px;
+outline-color: azure;
+outline-style: solid;}
+img {
+  display: block;
+  margin: 0 auto;
+}
+f
+   { color: #7e1434;
+   font-size: 32px;
+  display: flex;
+ text-align: right;  
+  gap: 20px; }
+
+ ul
+ {
+   font-size: 40px;
+  text-align:center;
+color: #b02750;}
+h1 
+{color: #f51155;}
+#love
+{font-size: 26px;
+color: #f51155;
+text-align: center;
+}
+#galery
+{
+  display: flex;
+  gap: 10px; /* расстояние между фото */
+  /* можно добавить выравнивание */
+  justify-content: flex-start; /* или center, space-between */
+
+ 
+  max-width: 300px; /* или нужный размер */
+  height: auto;
+}
+#galery2
+{
+  display: flex;
+  gap: 10px; /* расстояние между фото */
+  /* можно добавить выравнивание */
+  justify-content: flex-start; /* или center, space-between */
+
+ 
+  max-width: 300px; /* или нужный размер */
+  height: auto;
+}
+#galery3
+{
+  display: flex;
+  gap: 10px; /* расстояние между фото */
+  /* можно добавить выравнивание */
+  justify-content: flex-start; /* или center, space-between */
+
+ 
+  max-width: 300px; /* или нужный размер */
+  height: auto;
+}
+#galery4
+{
+  display: flex;
+  gap: 10px; /* расстояние между фото */
+  /* можно добавить выравнивание */
+  justify-content: flex-start; /* или center, space-between */
+
+ 
+  max-width: 300px; /* или нужный размер */
+  height: auto;
+  
+}
+#we
+{display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: #7e1434;
+  font-size:26px;
+}
